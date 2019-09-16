@@ -1,6 +1,6 @@
 # HQDonutView
 
-![image](https://github.com/Xiahaiquan/HQDonutView/blob/master/Pic/IMG_0444.PNG)
+![image](https://github.com/Xiahaiquan/HQDonutView/blob/master/Gif/ShowResult.gif)
 
 
 //I saw it here.
