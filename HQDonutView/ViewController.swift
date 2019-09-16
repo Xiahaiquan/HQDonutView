@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         donut.layout()
         view.addSubview(donut)
         
-        let slider = UISlider.init(frame: CGRect.init(x: 40, y: self.view.frame.height - 40, width: self.view.frame.width - 80, height: 30))
+        let slider = UISlider.init(frame: CGRect.init(x: 40, y: self.view.frame.height - 150, width: self.view.frame.width - 80, height: 30))
         view.addSubview(slider)
         slider.addTarget(self, action: #selector(ViewController.change(slider:)), for: UIControl.Event.valueChanged)
         
